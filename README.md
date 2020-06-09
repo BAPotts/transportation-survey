@@ -1,19 +1,21 @@
-# _Favorite Things_
+# _Transportation Survey_
 
-#### _JavaScript Array exercise for Epicodus, 6/3/2020_
+#### _JavaScript Array and For Loop exercise for Epicodus, 6/3/2020_
 
 #### By _**Beverly Potts**_
 
 ## Description
 
-_This web page asks the user for 5 of their favorite things and displays the second, first and third items inputted as an unordered list_
+_This web page will ask the user to answer questions about their methods of transportation with checkbox form input methods, then display which items were selected.
 ## Setup/Installation Requirements
 
 * Clone this repository
-* Navigate to the favorite-things directory
+* Navigate to the transportation-survey directory
 * Open index.html in a browser to view page.
-*click to select a text box, then type in one of your favorite things in each text box.
-*click the submit button near the bottom of the page to display the second, first, and third items you inputted.
+* Click the checkbox next to the methods of transportation you have used (as many as you like).
+* Click the button underneath to submit your answers.
+* Your answers will then be displayed in a list
+
 
 
 ## Known Bugs
